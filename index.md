@@ -1,5 +1,5 @@
-<!DOCTYPE html>
 <html><title>LattePowder</title>
+  
 <meta name="robots" content="noindex,nofollow,NOARCHIVE,NOSNIPPET,NOODP">
 
 <script src="https://config.metomic.io/config.js?id=prj:7abb04c6-1e70-4ddc-bf31-3c0061a5e394" crossorigin charset="utf-8"></script>
