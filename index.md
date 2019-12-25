@@ -11,6 +11,9 @@
 <img style="height:100%;border:0;" src="https://lh3.googleusercontent.com/LyP5A5l2-AmHk0dl327LtrQ7jSws-X_oiWVsxMPHG8zHEKx_GP3--c1DqlBHMuTnLIYZtPbZv1Sn1Du5teZIvqY_dyuD82KtJAaVvR5xcrTj3kzXujzkChyAQl_XMzQQTEDInmirhWc=w800-h800" />
 </div>
 
+<img style="height:100%;border:0;" src="https://github.com/thaixo/LattePowder/blob/master/welcome-lattepowder.png" />
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1>Impressum</h1>
